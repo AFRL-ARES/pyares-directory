@@ -17,6 +17,7 @@ Templates provide a preformated repository for setting up your service. All offi
 |[Latin-Hypercube-Planner](https://github.com/AFRL-ARES/Latin-Hypercube-Planner)| Planner | An iterative Latin hypercube planner| [AFRL-ARES](https://github.com/AFRL-ARES) | MIT |
 |[ARES-Print-Analyzer](https://github.com/AFRL-ARES/ARES-Print-Analyzer)| Analyzer | Computer vision based FDM print quality analyzer, based on the work of Ganitano et al. Meant for use with the [Educational ARES](https://github.com/AFRL-ARES/Educational-ARES) project| [AFRL-ARES](https://github.com/AFRL-ARES) | MIT |
 |[ARES-Print-Planner](https://github.com/AFRL-ARES/ARES-Print-Planner)| Planner | Simulated annealing planner for optimizing FDM 3d printing based on the work of Ganitano et al. Meant for use with the [Educational ARES](https://github.com/AFRL-ARES/Educational-ARES) project| [AFRL-ARES](https://github.com/AFRL-ARES) | MIT |
+|[Arithmetic Device](https://github.com/AFRL-ARES/pyares-templates/tree/Develop/example_implementations/devices/pyares_arithmetic)| Device | PyAres Device that provides custom math capability within campaigns | [AFRL-ARES](https://github.com/AFRL-ARES) | MIT |
 
 
 ## Demo/Development Tools
